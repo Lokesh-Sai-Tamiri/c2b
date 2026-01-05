@@ -13,9 +13,10 @@ import {
   CheckCircle2,
   AlertCircle,
   ExternalLink,
-  Zap,
-  Globe,
-  Lock
+  Zap, 
+  Globe, 
+  Lock,
+  MoreVertical
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
